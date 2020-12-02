@@ -1,6 +1,6 @@
 # nguyenthiphuong
 Tài khoản Admin: Tên đăng nhập:quynh123,pass:123456
-link-host:
+link-host:http://cayxanh24j.epizy.com/
 Phần mở đầu
 Mẫu Website bán cây cảnh
 Bạn yêu thích cây cảnh ? Bạn muốn kinh doanh cây cảnh và bạn muốn nhiều người biết tới bạn.Với tốc độ phát triển trong thời đại công nghiệp hóa như hiện nay việc tạo một website bán cây cảnh là giải pháp rất hiệu quả.
